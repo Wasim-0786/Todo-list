@@ -1,8 +1,10 @@
+<pre>
+  
 
 
 
 ``` 
-// main.jsx
+//main.jsx
 
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
@@ -115,6 +117,7 @@ const Input = () => {
 export default Input
 
 ```
+</pre>
 
 
 # React + Vite
